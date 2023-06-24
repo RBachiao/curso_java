@@ -39,6 +39,3 @@ public static String dados (String anoNascimento, String idade) {
 }
 
 }
-
-    
-}
