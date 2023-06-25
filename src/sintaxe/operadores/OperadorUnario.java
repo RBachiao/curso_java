@@ -1,4 +1,4 @@
-package sintaxe.operadoress;
+package sintaxe.operadores;
 
 public class OperadorUnario {
 

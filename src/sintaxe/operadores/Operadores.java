@@ -1,12 +1,13 @@
-package sintaxe.operadoress;
+package sintaxe.operadores;
 
 public class Operadores {
-public static void main (String [] args) {
+    public static void main (String [] args) {
     
     // operador de atribuição é o =
     // char só permite um caracter entre aspas simples
-
     char sexo = 'M';
+
+    System.out.println(sexo);
 
     // o operador de adição pode ser usado para fazer a concatenação de uma String
 
@@ -14,9 +15,7 @@ public static void main (String [] args) {
 
     System.out.println(nomeCompleto);
 
-    String concatenacao = "?";
-
-    System.out.println(concatenacao);
+    String concatenacao = "";
 
     //enquanto o próximo valor for numerérico, + funciona como operador de atribuição soma
     //quando passa a ser texto funciona como concatenação, resultandoo em 31
