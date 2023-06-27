@@ -1,4 +1,4 @@
-package aula;
+package sintaxe.metodos;
 
 import java.util.Scanner;
 
