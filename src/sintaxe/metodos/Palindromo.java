@@ -1,4 +1,4 @@
-package ??;
+package sintaxe.metodos;
 
 import java.util.Scanner;
 
