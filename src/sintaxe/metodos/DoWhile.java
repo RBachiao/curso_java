@@ -11,7 +11,7 @@ public class DoWhile {
 		int numero;
 		int somaNumeros = 0;
 		do {
-			System.out.print("Insira um para ser somado: ");
+			System.out.print("Insira um número para ser somado: ");
 			numero = entrada.nextInt();
 			somaNumeros += numero;
 			contadorNum ++;
