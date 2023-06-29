@@ -1,0 +1,162 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "sintaxe.classes.BoletimEstudantil",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "sintaxe.classes.Classes",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.Contador",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "ContinueLoop",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.ContinueLoop",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.DoWhile",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "ForExemplo",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.ForExemplo",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Palindromo",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.Palindromo",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.Usuario",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "PersonalizarCarro",
+            "request": "launch",
+            "mainClass": "sintaxe.metodos.projetocarro.PersonalizarCarro",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadorUnario",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadoresLogicos",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadoresRelacionais",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.OperadoresTernarios",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "TiposOperadores",
+            "request": "launch",
+            "mainClass": "sintaxe.operadores.TiposOperadores",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.MinhaClasse",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.SobreMim",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "sintaxe.tiposevariaveis.TiposVariaveis",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDeArray",
+            "request": "launch",
+            "mainClass": "sintaxe.usoarrays.ArrayDeArray",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayForEach",
+            "request": "launch",
+            "mainClass": "sintaxe.usoarrays.ArrayForEach",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayForIf",
+            "request": "launch",
+            "mainClass": "sintaxe.usoarrays.ArrayForIf",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "sintaxe.usoarrays.Arrays",
+            "projectName": "curso_java_5752d54f"
+        }
+    ]
+}
