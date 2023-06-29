@@ -3,8 +3,8 @@ package revisao;
 public class ExemploArray {
 
 	public static void main(String[] args) {
-		// array de tipo primitivo não tem método. Contém apenas o valor que coloquei
-		// o array é sempre um objeto]
+		// tipo primitivo não tem método. Contém apenas o valor que coloquei
+		// como array é sempre um objeto, ele tem métodos
 		// [ ] identifica que é um array
 		// meuBuque é um array [] do tipo String
 		// pode ter notação String meuBuque[]
