@@ -1,6 +1,6 @@
 package revisao;
 
-public class ExemploArray {
+public class ArrayForEach {
 
 	public static void main(String[] args) {
 		// tudoPar é um array, nesse caso um conjunto de inteiros
