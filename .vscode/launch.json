@@ -4,7 +4,20 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "TesteScanner",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.TesteScanner",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "Scanner",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.Scanner",
+            "projectName": "curso_java_5752d54f"
+        },
         {
             "type": "java",
             "name": "Current File",
