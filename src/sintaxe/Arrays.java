@@ -1,6 +1,6 @@
-package revisao;
+package sintaxe.usoarrays;
 
-public class ExemploArray {
+public class Arrays {
 
 	public static void main(String[] args) {
 		// tipo primitivo não tem método. Contém apenas o valor que coloquei
