@@ -18,11 +18,13 @@ public class Palindromo {
 		//nextInt(): faz a verificação do token de entrada seguinte como um int.
 		//nextFloat(): aponta o próximo símbolo de entrada como flutuação.
 		//Radix(): faz retornar o índice atual deste objeto Scanner.
-		
+
 		String palavra = entrada.next();
 		int primeiraPosicao = 0;
 		int ultimaPosicao = palavra.length() -1;
 		boolean ehPalindromo = true;
+		
+		entrada.close();
 		
 		while (primeiraPosicao < ultimaPosicao) {
 			// charAt método da classe String que pede a posicao do caracter
@@ -39,7 +41,5 @@ public class Palindromo {
 		else {
 			System.out.println("Não e um palindromo");
 		}
-
 	}
-
 }
