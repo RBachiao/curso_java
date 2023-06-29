@@ -1,4 +1,4 @@
-package revisao;
+package sintaxe.usoarrays;
 
 public class ArrayForEach {
 
