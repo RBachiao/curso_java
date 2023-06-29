@@ -1,4 +1,4 @@
-package sintaxe.classe;
+package sintaxe.classes;
 public class BoletimEstudantil {
     
 public static void main (String [] args) {

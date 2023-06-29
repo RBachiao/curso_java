@@ -1,5 +1,5 @@
-package sintaxe.classe;
-public class MinhaClasse {
+package sintaxe.classes;
+public class Classes {
 
 // void que não vai me retornar nada, só vai executar. 
 // Método main, parâmetro String, o array que é args e o corpo {}.
