@@ -1,6 +1,6 @@
-package revisao;
+package sintaxe.usoarrays;
 
-public class ExemploArray {
+public class ArrayForIf {
 
 	public static void main(String[] args) {
 		// tudoPar é um array, nesse caso um conjunto de inteiros
