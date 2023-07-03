@@ -25,7 +25,7 @@ public class TesteIf {
 
             for ( int j = i; j < dados.length; j ++ ) {
                 
-                if( dados[j] > dados[i] ) {
+                if( dados[j] < dados[i] ) {
                     System.out.println("i " + i + " = " + dados[i] + " ");
                     System.out.println("j " + j + " = " + dados[j] + " ");
                     System.out.println(" ");
