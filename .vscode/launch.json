@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesteIf",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.TesteIf",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "sintaxe.terminaleargumentos.teste",
+            "projectName": "curso_java_5752d54f"
+        },
+        {
+            "type": "java",
             "name": "TesteScanner",
             "request": "launch",
             "mainClass": "sintaxe.terminaleargumentos.TesteScanner",
