@@ -1,0 +1,29 @@
+package usotry;
+
+import java.util.Scanner;
+
+public class usoTry {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+        int tamanho;
+
+        System.out.println("Entre com o tamanho do array entre 1 e 9: ");
+		tamanho = entrada.nextInt();
+		entrada.close();
+
+		try {
+            if ( tamanho > 9 || tamanho < 1) {
+                throw new Exception ("O tamanho do array está fora dos limites");
+            }
+		} catch (Exception e) {
+			if (tamanho > 9) {
+				System.out.println(e.getMessage());
+				
+			} else {
+				String[] s = new String[tamanho];
+			}
+		} 
+	}
+}
