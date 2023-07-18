@@ -18,12 +18,7 @@ public class usoTry {
                 throw new Exception ("O tamanho do array está fora dos limites");
             }
 		} catch (Exception e) {
-			if (tamanho > 9) {
-				System.out.println(e.getMessage());
-				
-			} else {
-				String[] s = new String[tamanho];
-			}
+			System.out.println(e.getMessage());
 		} 
 	}
 }
